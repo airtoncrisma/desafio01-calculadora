@@ -22,15 +22,17 @@ export const Row = styled.div`
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    gap: 2px;
+    padding: 1px;
 
 `
 
-export const Column = styled.div`
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
+// export const Column = styled.div`
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: space-between;
+//     align-items: center;
 
-`
+// `
     
 
